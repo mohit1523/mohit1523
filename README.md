@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 I am Mohit Kumar Patel 
-- *3rd year Engineering Student*
-- ***MERN** Stack Developer*
-- *Freelancer*
 
 #### :mailbox_with_mail: How To Reach Me
 

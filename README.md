@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I am Mohit Kumar Patel 
+I’m Mohit Kumar Patel, a full Stack Developer with experience in C#, ASP.NET, MERN stack, and scalable web application development. Proven track record of delivering end-to-end features in production environments.
+Currently, I’m working as an Associate Developer at Tech Extensor (since May 2025), where I previously interned as a Web Development Intern starting in October 2024.
 
 #### :mailbox_with_mail: How To Reach Me
 
